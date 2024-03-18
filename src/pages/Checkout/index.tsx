@@ -193,7 +193,7 @@ const Checkout = () => {
               através dos nossos canais de atendimento ao cliente
             </p>
             <p className="margin-top">
-              Agradecemos por escolher a EPLAY e esperamos que desfrute do seu
+              A EPLAY agradece e esperamos que desfrute do seu
               jogo!
             </p>
           </>
