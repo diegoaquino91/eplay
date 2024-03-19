@@ -193,7 +193,7 @@ const Checkout = () => {
               através dos nossos canais de atendimento ao cliente
             </p>
             <p className="margin-top">
-              A EPLAY agradece e esperamos que desfrute do seu
+              A EPLAY agradece muito e esperamos que desfrute do seu
               jogo!
             </p>
           </>
@@ -319,7 +319,7 @@ const Checkout = () => {
                       </S.InputGroup>
                       <S.InputGroup>
                         <label htmlFor="cpfCardOwner">
-                          CPF do titular do cartão
+                          CPF do titular
                         </label>
                         <InputMask
                           type="text"
