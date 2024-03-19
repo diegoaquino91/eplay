@@ -351,7 +351,7 @@ const Checkout = () => {
                         />
                       </S.InputGroup>
                       <S.InputGroup>
-                        <label htmlFor="cardNumber">Número do cartão</label>
+                        <label htmlFor="cardNumber">Número</label>
                         <InputMask
                           type="text"
                           id="cardNumber"
